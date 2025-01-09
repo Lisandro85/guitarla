@@ -13,7 +13,7 @@
 
 - **React**: Biblioteca de JavaScript para construir interfaces de usuario.
 - **JavaScript**: Lenguaje de programación principal del proyecto.
-- **CSS&Boostrap**: Estilos básicos para la interfaz.
+- **CSS&Bootstrap**: Estilos básicos para la interfaz.
 
 ## Instalación
 
