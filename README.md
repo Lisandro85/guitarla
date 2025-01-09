@@ -22,3 +22,11 @@ Para instalar y ejecutar el proyecto localmente en tu máquina, sigue estos paso
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/Lisandro85/guitarla.git
+
+2. Instala dependencias:
+   ```bash
+   npm install
+
+3. Levantta el servidor :
+   ```bash
+   npm run dev
