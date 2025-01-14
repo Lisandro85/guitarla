@@ -7,7 +7,7 @@
 - **Explorar productos**: Los usuarios pueden ver una lista de guitarras disponibles para la compra.
 - **Carrito de compras**: Los usuarios pueden agregar productos al carrito, ver el total de la compra y eliminar productos.
 - **Gestión de estado con React**: El estado de la aplicación se maneja eficientemente utilizando React.
-- **Hooks de React**: Uso de Hooks como `useState`, `useMemo`, y `useContext` para una experiencia interactiva y dinámica.
+- **Hooks de React**: Uso de Hooks como `useState`, `useMemo`, para una experiencia interactiva y dinámica.
 
 ## Tecnologías
 
